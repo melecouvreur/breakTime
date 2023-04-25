@@ -6,7 +6,10 @@
 
 BreakTime is an app that helps you take breaks between work. It sends an email reminder when it's time to take a break, allows you to set a timer and provides activity suggestions to help you unwind. 
 
+You can find a live version [here](https://breaktime.herokuapp.com/)
+
 This is a Code-Op Group project developed with @monicalopez1991, @LouiseB96 and @gabriela-caeiro 🤍
+
 
 ## Technologies
 
